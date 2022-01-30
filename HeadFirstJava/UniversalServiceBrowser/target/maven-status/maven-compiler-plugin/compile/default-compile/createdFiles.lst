@@ -1,0 +1,12 @@
+com\sam\universalservicebrowser\ServiceBrowser.class
+com\sam\universalservicebrowser\ServiceServer.class
+com\sam\universalservicebrowser\MiniMusicService.class
+com\sam\universalservicebrowser\DayOfTheWeekService$DoItListener.class
+com\sam\universalservicebrowser\Service.class
+com\sam\universalservicebrowser\MiniMusicService$PlayItListener.class
+com\sam\universalservicebrowser\DayOfTheWeekService.class
+com\sam\universalservicebrowser\DiceService$RollEmListener.class
+com\sam\universalservicebrowser\DiceService.class
+com\sam\universalservicebrowser\ServiceBrowser$MyListListener.class
+com\sam\universalservicebrowser\ServiceServerImpl.class
+com\sam\universalservicebrowser\MiniMusicService$MyDrawPanel.class
